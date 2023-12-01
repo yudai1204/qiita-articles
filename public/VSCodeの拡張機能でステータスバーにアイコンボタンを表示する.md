@@ -1,12 +1,12 @@
 ---
 title: VSCodeの拡張機能でステータスバーにアイコンボタンを表示する
 tags:
-  - "VSCode"
-  - "TypeScript"
-  - "VSCode-Extension"
+  - TypeScript
+  - VSCode
+  - VSCode-Extension
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-12-01T14:50:50+09:00'
+id: 9ac1e0847829c9daaad0
 organization_url_name: null
 slide: false
 ignorePublish: false
